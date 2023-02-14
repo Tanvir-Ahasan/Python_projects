@@ -1,3 +1,4 @@
+# Short_projects
 This is a collection of Python projects that I have created as a part of my learning journey in Python programming language. These projects are a mix of fun games, simple applications, and small data science projects.
 
 # Projects Included
